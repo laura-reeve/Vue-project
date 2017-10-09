@@ -22,6 +22,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 # Vue-project
 
+``` bash
 # how to set up the development environment
 # install the Vue Command Line Interface globally
 npm install -g vue-cli

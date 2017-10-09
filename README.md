@@ -48,7 +48,9 @@ npm install
 npm run dev
 
 # project will be deployed on localhost:8080
+# dependencies can be located in the newly created node_modules folder
 # make any customizations to the projects that you desire
+# be sure to use debugging tools (like the Sources tab in the Chrome development tools) to test and debug your code in the local environment
 
 # how to build the code for deployment on Github
 # configure webpack to build code into /docs folder instead of default /dist folder
